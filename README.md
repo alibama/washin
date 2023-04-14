@@ -18,6 +18,7 @@ Wash trading is often carried out using automated trading bots that execute trad
 # Look for trading between the same accounts: 
 Wash trading often involves trading between the same accounts, which creates the appearance of multiple buyers and sellers when in reality there is only one or a few. By analyzing the transaction history of the token, you can detect if there are any suspicious trades between the same accounts.
 
-# Compare the trading activity with other similar tokens: By comparing the trading activity of the token with other similar tokens in the market, you can detect if the trading activity is abnormal or inconsistent with the market trends. If the trading activity of the token is significantly higher or more volatile than other similar tokens, it may be a sign of wash trading.
+# Compare the trading activity with other similar tokens: 
+By comparing the trading activity of the token with other similar tokens in the market, you can detect if the trading activity is abnormal or inconsistent with the market trends. If the trading activity of the token is significantly higher or more volatile than other similar tokens, it may be a sign of wash trading.
 
 In summary, detecting wash trading in ERC20 tokens requires careful analysis of the trading activity and patterns on the blockchain. By using a combination of the above methods, you can detect if a token is being used in wash trading and take appropriate action to protect investors and maintain market integrity.
